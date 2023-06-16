@@ -1,6 +1,6 @@
 function sim(){
     alert (" voce aceitou namorar comigo :)")
-    var audio = new Audio('Gemidao do zap (320kbps)');
+    var audio = new Audio('Gemidao do zap.mp3');
     audio.play();
 
    }
