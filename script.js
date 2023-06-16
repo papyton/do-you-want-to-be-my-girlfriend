@@ -14,3 +14,13 @@ function sim(){
        return (Math.random() * (max - min) + min) +"%";
    
    }
+
+   function playsound (){
+    var audio = new Audio('Gemidao do zap (320kbps)');
+
+
+   }
+
+
+
+   
