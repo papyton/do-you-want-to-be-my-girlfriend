@@ -1,6 +1,8 @@
 function sim(){
     alert (" voce aceitou namorar comigo :)")
-   
+    var audio = new Audio('Gemidao do zap (320kbps)');
+    audio.play();
+
    }
    function desvia (t){
    var btn = t;
@@ -15,11 +17,8 @@ function sim(){
    
    }
 
-   function playsound (){
-    var audio = new Audio('Gemidao do zap (320kbps)');
-    audio.play();
-
-   }
+   
+   
 
 
 
