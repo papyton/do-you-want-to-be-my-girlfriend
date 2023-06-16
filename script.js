@@ -17,7 +17,7 @@ function sim(){
 
    function playsound (){
     var audio = new Audio('Gemidao do zap (320kbps)');
-
+    audio.play();
 
    }
 
